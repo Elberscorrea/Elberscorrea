@@ -13,9 +13,6 @@ Estou constantemente explorando novos conceitos e enfrentando desafios inéditos
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -27,7 +24,7 @@ Estou constantemente explorando novos conceitos e enfrentando desafios inéditos
 - Estou me aprofundando em Python e tecnologias de back-end como Django e Flask
 - Trabalho com bibliotecas de ciência de dados, como Pandas e NumPy
 - Gosto de compartilhar conhecimento e aprender com os outros
-- Atualmente, trabalho como freelancer
+
 
 ## Projetos em Destaque
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elbercorrea44&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

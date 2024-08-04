@@ -40,15 +40,15 @@
 
 ## 🌟 Projetos Destacados
 
-### [Projeto Incrível 1](link_para_o_projeto)
-Uma breve descrição sobre o Projeto Incrível 1.  
+### [Django Netflix Clone](https://github.com/Elberscorrea/django-netflix-clone)
+Um clone do Netflix desenvolvido com Django para explorar e praticar habilidades em desenvolvimento backend.  
 ![Tech Stack](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![Tech Stack](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 
-### [Projeto Incrível 2](link_para_o_projeto)
-Uma breve descrição sobre o Projeto Incrível 2.  
-![Tech Stack](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![Tech Stack](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link_para_o_linkedin) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@example.com)
 
 ### [Projeto Incrível 3](link_para_o_projeto)
 Uma breve descrição sobre o Projeto Incrível 3.  

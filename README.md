@@ -1,6 +1,5 @@
 # Olá! Eu sou o Elber 👋
 
-![GitHub Banner]([[https://c.wallhere.com/photos/39/36/1920x1200_px_8_Bit_Hello_World_minimalism_Pixelated_quote_Simple_Background-1342417.jpg!d](https://flic.kr/p/2q86HLq)])
 
 🎓 **Estudante de Ciências da Computação** | 💻 **Desenvolvedor Backend em Ascensão** | 🚀 **Apaixonado por Tecnologia**
 

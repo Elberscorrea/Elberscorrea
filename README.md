@@ -48,14 +48,4 @@ Um clone do Netflix desenvolvido com Django para explorar e praticar habilidades
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link_para_o_linkedin) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@example.com)
-
-### [Projeto Incrível 3](link_para_o_projeto)
-Uma breve descrição sobre o Projeto Incrível 3.  
-![Tech Stack](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) 
-![Tech Stack](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link_para_o_linkedin) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elber.scorrea@gmail.com)

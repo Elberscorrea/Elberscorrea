@@ -24,7 +24,6 @@ Estou constantemente explorando novos conceitos e enfrentando desafios inéditos
 - Estou me aprofundando em Python e tecnologias de back-end como Django e Flask
 - Trabalho com bibliotecas de ciência de dados, como Pandas e NumPy
 - Gosto de compartilhar conhecimento e aprender com os outros
-- Atualmente, trabalho como freelancer
 
 ## Projetos em Destaque
 

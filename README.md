@@ -1,35 +1,37 @@
-### Olá me chamo Elber 👋
+### Olá, me chamo Elber 👋
 
+Trabalho em diversos projetos envolvendo Ciência de Dados e Desenvolvimento de Aplicativos. Sou apaixonado por tecnologia e adoro aprender novas habilidades e compartilhar meu conhecimento com os outros.
 
-Trabalho em diversos projetos envolvendo Engenharia de Software , Ciencias de Dados e Apps . Sou apaixonado por aprender coisas novas e passar meus conhecimentos para outras pessoas.Sou apaixonado por tecnologia . Por isso, vejo a area de dados como uma grande ponte entre a area de negocios  e tecnologia. Tambem  acredito que o desenvolvimento auxilia no desennvolvimento de outras pessoas , e vice-versa. Amo aprender novos conceitos e vivenciar  novos desafios.
+Atualmente, estou me aprofundando em Python, focando no desenvolvimento back-end com frameworks como Django e Flask. Além disso, utilizo bibliotecas como Pandas e NumPy para projetos de ciência de dados. Acredito que a área de dados é uma ponte essencial entre negócios e tecnologia, e estou sempre em busca de novas formas de conectar essas áreas.
 
-
-
-
-
-
-
-
-
-
+Estou constantemente explorando novos conceitos e enfrentando desafios inéditos. Acredito que o desenvolvimento mútuo é essencial para o crescimento de todos, e estou sempre disposto a colaborar e aprender com os outros.
 
 ## Skills
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![react](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Detalhes
-- Estou aprendendo sobre Apache Spark e me aprofundadndo em AWS
-- Gosto de compartilhar conhecimento e Aprender.
-- Trabalho atualmente como Freelancer
+- Estou me aprofundando em Python e tecnologias de back-end como Django e Flask
+- Trabalho com bibliotecas de ciência de dados, como Pandas e NumPy
+- Gosto de compartilhar conhecimento e aprender com os outros
+- Atualmente, trabalho como freelancer
 
-
-
+## Projetos em Destaque
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elbercorrea44&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elbercorrea44&repo=calculadora&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elbercorrea44&langs_count=8&theme=radical)

@@ -33,9 +33,3 @@ Estou constantemente explorando novos conceitos e enfrentando desafios inéditos
 
 ### Projeto Principal
 [Django Netflix Clone](https://github.com/Elberscorrea/django-netflix-clone)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elbercorrea44&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elbercorrea44&repo=calculadora&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elbercorrea44&langs_count=8&theme=radical)

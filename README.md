@@ -45,7 +45,8 @@ Um clone do Netflix desenvolvido com Django para explorar e praticar habilidades
 ![Tech Stack](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 
 ### [MusicFlow](https://github.com/Elberscorrea/MusicFlow)
-é um projeto inspirado no Spotify desenvolvido com Django, Criado e recentemente publicado, este projeto utiliza a API do [Spotify Scraper](https://rapidapi.com) para buscar músicas e exibir resultados com detalhes como nome da faixa, artista, duração e imagem do álbum.  
+Projeto inspirado no Spotify desenvolvido com Django, Criado e recentemente publicado, este projeto utiliza a API do [Spotify Scraper](https://rapidapi.com) para buscar músicas e exibir resultados com detalhes como nome da faixa, artista, duração e imagem do álbum.
+<br/>
 ![Tech Stack](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![Tech Stack](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 
